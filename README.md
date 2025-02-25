@@ -1,6 +1,6 @@
-# Love Note Randomizer: Spicy & Sensual Edition
+# Love Note Randomizer: Spicy Edition
 
-Welcome to the **Love Note Randomizer: Spicy & Sensual Edition**—a flirty, cheeky, and downright steamy Python app designed to heat things up between you and your special someone! Spin for wild love notes, take on sensual dares, and watch your Love Meter soar. Built with `tkinter` for the flashy interface and `pygame` for a kissy soundtrack, this isn’t your average love game—it’s a two-player adventure packed with romance, mischief, and a whole lot of spice.
+Welcome to the **Love Note Randomizer: Spicy Edition**—a flirty, cheeky, and downright steamy Python app designed to heat things up between you and your special someone! Spin for wild love notes, take on sensual dares, and watch your Love Meter soar. Built with `tkinter` for the flashy interface and `pygame` for a kissy soundtrack, this isn’t your average love game—it’s a two-player adventure packed with romance, mischief, and a whole lot of spice.
 
 ---
 
