@@ -54,7 +54,7 @@ Want to tinker with the code or run it yourself? Here’s how to get started:
    ```  
 3. Navigate to the project folder:  
    ```bash  
-   cd love-note-randomizer  
+   cd love-note-generator  
    ```  
 
 ### **Step 2: Set Up Your Environment**  
@@ -67,7 +67,7 @@ Want to tinker with the code or run it yourself? Here’s how to get started:
 ### **Step 3: Run the App**  
 1. Launch the app by running:  
    ```bash  
-   python love_note_spicy.py  
+   python index.py  
    ```  
 2. If you want the sound effects, download `kiss.wav` from [freesound.org](https://freesound.org) and place it in the same folder as the script.  
 
