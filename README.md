@@ -50,7 +50,7 @@ Want to tinker with the code or run it yourself? Here’s how to get started:
 1. Open your terminal or command prompt.  
 2. Run the following command to clone the repository:  
    ```bash  
-   git clone https://github.com/your-username/love-note-randomizer.git  
+   git clone [https://github.com/your-username/love-note-randomizer.git](https://github.com/suwarna-wave/love-note-generator.git)  
    ```  
 3. Navigate to the project folder:  
    ```bash  
